@@ -1,0 +1,14 @@
+{
+  "name": "drupal/transistore",
+  "type": "drupal-module",
+  "description": "Module regroupant les fonctions de gestion et d'administration de l'association",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/transistore",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/transistore",
+    "source": "http://cgit.drupalcode.org/transistore"
+  },
+  "require": { }
+}

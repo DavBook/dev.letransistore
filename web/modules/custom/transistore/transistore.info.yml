@@ -1,0 +1,5 @@
+name: 'Transistore'
+type: module
+description: 'Module regroupant les fonctions de gestion et d'administration de l'association'
+core: 8.x
+package: 'Custom'
